@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fuaddishtech1
+- 👋 Hi, I’m Fuad Endris
 - 👀 I’m interested in Web Penetration Testing
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
